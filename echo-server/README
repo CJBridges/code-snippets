@@ -1,0 +1,4 @@
+Simple server to echo back messages.
+
+Threading is superfluous today, but I plan to
+  add producer/consumer sort of model later.
